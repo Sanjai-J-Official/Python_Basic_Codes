@@ -6,5 +6,5 @@ dicts={
     }
 
 x=dicts['name']
-
 print(x)
+print(id(x)) 
