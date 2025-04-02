@@ -29,7 +29,7 @@ while True:
     calc=Calculator(int(input("Enter the Num 1:")),int(input("Enter the Num 2:")))
     if n==1:
         calc.sum()
-    elif n==2: 
+    elif n==2:  
         calc.sub()
     elif n==3:
         calc.mul()

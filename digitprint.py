@@ -20,12 +20,12 @@ while i<=136:
     c=True
     while temp>0:
         id=temp%10
-        print("id",id)
+         
         if id%2==0:
             c=False
             break
         temp//=10
-        print(temp)
+         
     if c:
         if i%5==0 :
             print(i)
