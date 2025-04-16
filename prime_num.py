@@ -21,7 +21,8 @@ print(lis)
 
 n=int(input("Enter:"))
 
-if n%2==0 or n%3==0 or n%5==0:
+if n%2==0 or n%3==0 or n%4==0 or n%5==0:
     print("not prime")
 else:
-    print("prime") '''
+    print("prime") '''      
+
