@@ -1,3 +1,5 @@
+#145
+#1!+4!+5!=145
 n=int(input("Enter the input:"))
 
 temp=n
